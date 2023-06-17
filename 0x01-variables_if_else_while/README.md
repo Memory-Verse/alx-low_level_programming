@@ -25,7 +25,7 @@ Scripts with definitions
 
 
 
-##Program codes
+## Program codes
 
 *
   * [0-positive_or_negative.c](./0-positive_or_negative.c)
@@ -47,7 +47,7 @@ Scripts with definitions
 ## Source code
 * [Source code](https://github.com/alx-tools/0x01.c/blob/be43405af45f05527cde752969440ea246ce0d55/0-positive_or_negative_c).
 
-##Technologies
+## Technologies
 
 * Scripts written in `vim`
 * Compiled using `gcc`
