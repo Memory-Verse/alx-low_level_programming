@@ -1,9 +1,9 @@
 # C - malloc, free
 
-## Files :page_with-curl:
+## Files :page_with_curl:
 
 | Files | Description |
-------------------------
+|-------|-------------|
 | `0-create_array.c` | A function that creates an array of chars, and initializes it with a specific char. |
 | `1-strduo.c` | A function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter. |
 | `2-str_concat.c` | A function that concatenates two strings |
@@ -12,7 +12,6 @@
 | `100-argstostr.c` | A function that concatenates all the arguments of your program |
 |  `101-strtow.c`| A funtion that splits a string into words |
 
-------------------------------------
 
 
 ## Tasks
